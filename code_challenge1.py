@@ -1,3 +1,2 @@
-name = input("What is your name .? ")
-
-print("Hi", name , "Welcome to the Matrix")
+print("Happy\n Monday")
+print("\n BSIT \t 1A")
