@@ -10,10 +10,10 @@ print(months)
 for m in months:
     print(f"{m}, 2025")
 
-fullname = 'Nace Jhana Claveria'
-
+fullname = 'Jimoh Evar Peñamante'
 for i in fullname:
     print(i)
 
 for j in fullname[::-1]:
+
     print(j)
